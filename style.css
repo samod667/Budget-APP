@@ -33,7 +33,7 @@ body {
 
 .top {
     height: 40vh;
-    background-image: black;
+    background-color: black;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -82,7 +82,7 @@ body {
 .budget__expenses--text {
     float: left;
     font-size: 13px;
-    color: #444;
+    color: #e7e7e7;
     margin-top: 2px;
 }
 
