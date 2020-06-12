@@ -34,8 +34,6 @@ body {
 .top {
     height: 40vh;
     background-color: black;
-    background-size: cover;
-    background-position: center;
     position: relative;
 }
 
