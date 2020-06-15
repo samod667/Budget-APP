@@ -1,5 +1,5 @@
 <h1>My Budget App</h1>
-<h4>This is a budget App that allow you to control your incomes and expenses!<h4>
+<h4>This is a budget App that allow you to control your incomes and expenses!</h4>
 
 <a href="https://samod667.github.io/Budget-APP/"><h2>LIVE DEMO<h2></a> 
 ![img-1](img1.png)
